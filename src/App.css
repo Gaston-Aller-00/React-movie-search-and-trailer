@@ -36,9 +36,9 @@
     /* ... otros estilos para el modo noche ... */
   }
   body{
-    background-color:#white;
+    background-color:#1a202c;
   }
 
   h1{
-    color: black;
+    color: white;
   }

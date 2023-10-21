@@ -6,6 +6,8 @@
     display: flex;
     align-items: flex-end;
   }
+
+  /* boton del trailer open/close */
   .boton{
     background-color: #0F1014;
     color: white;
@@ -14,6 +16,7 @@
     padding: 10px 15px;
     cursor: pointer;
     margin-bottom: 10px;
+    border-radius:10px;
   }
   .reproductor{
     width: 100%;
@@ -62,3 +65,6 @@
     box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.3);
   }
 
+input{
+  border-radius: 2px;
+}

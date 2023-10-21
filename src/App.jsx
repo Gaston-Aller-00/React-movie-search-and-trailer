@@ -179,7 +179,7 @@ function App() {
       width="100%"
       className="movie-poster" 
     />
-    <h4 className="text-center">{movie.title}</h4>
+    <h4 className="text-center text-white">{movie.title}</h4>
   </div>
 ))}
         </div>

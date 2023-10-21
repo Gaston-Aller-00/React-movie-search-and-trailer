@@ -52,6 +52,7 @@
 /* ANIMACIONES PARA LOS POSTERS DE LAS PELIS */
   .movie-poster {
     transition: transform 0.2s, filter 0.2s, box-shadow 0.2s;
+    border-radius: 20px;
   }
   
   /* Aplica una transformación y un efecto de brillo al pasar el mouse sobre la imagen */

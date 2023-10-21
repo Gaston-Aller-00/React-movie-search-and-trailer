@@ -10,4 +10,4 @@ Use in the app
 -Future night mode
 -etc
 
-Link:   https://react-boostrap-trailer-search-movie.netlify.app
+Link:   https://react-boostrap-movie-trailer-search.netlify.app
